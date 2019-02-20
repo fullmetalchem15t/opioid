@@ -15,7 +15,7 @@ data_wrangling.ipynb: ipython notebook where databases for the dataset is create
 
 opioid_statistics.ipynb: ipython notebook where both histograms and scatter plots show an overview of the dataset.
 
-opioid_clustering.ipynb: ipython notebook where machine learning is used to create clusters for anomaly detection 
+opioid_clustering.ipynb: ipython notebook where machine learning is used to create clusters for anomaly detection.
  
 
 
