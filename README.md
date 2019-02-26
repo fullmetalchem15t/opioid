@@ -20,7 +20,7 @@ opioid_clustering.ipynb: ipython notebook where machine learning is used to crea
 # Method
 
 Clusters were produced for each health care provider specialties in order to account for additional that my explain variation in opioid prescription. This factors are city population, city social economic status (median income), city temperature, location (longitude and lattice).
-The data points were standardized with StandardScaler within the scikit-learn module. Then the data was orthogonalized with principal component analysis (PCA). Of the nine orthogonal dimension, six accounted for 90% of the explained variance. For the top ten specialties that prescribed opioids, K-means method was used to create clusters.  Anomaly were determined from the whishers of cluster’s boxplot of opiods claims rate .
+The data points were standardized with StandardScaler within the scikit-learn module. Then the data was orthogonalized with principal component analysis (PCA). Of the nine orthogonal dimension, six accounted for 90% of the explained variance. For the top ten specialties that prescribed opioids, K-means method was used to create clusters.  Anomaly were determined from the whishers of cluster’s boxplot of opiods claims rate.
 
 
 # Results
