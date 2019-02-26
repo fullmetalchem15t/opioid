@@ -6,7 +6,7 @@ The percentage of opioids prescribed by health care providers was examined by cl
 
 # Contents of Repository 
 
-Opioid_Slides.pdf: Presentable slides of an overview of this project. 
+[Opioid_Slides.pdf](Opioid_Slides.pdf): Presentable slides of an overview of this project. 
 
 opioid.pdf: This is the pdf documentation of this project. This goes into depth into cleaning of the data, describes the data,
 the machine learning algoriths used, and the findings.
