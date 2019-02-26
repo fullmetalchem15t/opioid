@@ -25,7 +25,7 @@ The data points were standardized with StandardScaler within the scikit-learn mo
 
 # Results
 
-Analysis of the clustering pattern for the top ten specialties was discussed in the documentation. In order to test model, the clusters were determined if five health care professionals who were reported to have fraudulent opioid claims and in the dataset were found to be percent of opioid anomalies. Two of the clearly anomalies, two were borderline, and one failed to be detected as anomalies. Due to the two  known cases of fraud being borderline, the criteria to determine if opioid claims rate should be reevaluated. 
+Analysis of the clustering pattern for the top ten specialties was discussed in the documentation. In order to test model, the clusters were determined if the opioid claims rate of the five health care professionals who were reported to have committed fraudulent opioid claims and in the dataset were detected as anomalies. Two of the clearly anomalies, two were borderline, and one failed to be detected as anomalies. Due to the two  known cases of fraud being borderline, the criteria to determine if opioid claims rate should be reevaluated. 
 
 # Conclusion
 
