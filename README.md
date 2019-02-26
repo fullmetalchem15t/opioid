@@ -6,14 +6,14 @@ The percentage of opioids prescribed by health care providers was examined by cl
 
 # Contents of Repository 
 
-[Opioid_Slides.pdf](Opioid_Slides.pdf): Presentable slides of an overview of this project. 
+[Opioid_Slides.pdf](https://github.com/fullmetalchem15t/opioid/blob/master/Opoid_Slides.pdf): Presentable slides of an overview of this project. 
 
-opioid.pdf: This is the pdf documentation of this project. This goes into depth into cleaning of the data, describes the data,
+[opioid.pdf](opioid.pdf): This is the pdf documentation of this project. This goes into depth into cleaning of the data, describes the data,
 the machine learning algoriths used, and the findings.
 
-data_wrangling.ipynb: ipython notebook where databases for the dataset is create and cleaned.
+[data_wrangling.ipynb](data_wrangling.ipynb): ipython notebook where databases for the dataset is create and cleaned.
 
-opioid_statistics.ipynb: ipython notebook where both histograms and scatter plots show an overview of the dataset.
+[opioid_statistics.ipynb](opioid_statistics.ipynb): ipython notebook where both histograms and scatter plots show an overview of the dataset.
 
 opioid_clustering.ipynb: ipython notebook where machine learning is used to create clusters for anomaly detection.
 
