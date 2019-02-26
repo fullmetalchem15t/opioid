@@ -34,7 +34,9 @@ by healthcare providers that may be fraudulent. It is recommended that outliers
 within their cluster (and borderline outliers) should be investigated for possible
 cases for fraud. This methodology was found to be more useful for specialties
 that have a narrow range of opioid claims rate such as family practice and internal
-medicine. For future consideration of anomaly detection, it may be beneficial to
+medicine. 
+
+For future consideration of anomaly detection, it may be beneficial to
 focus on the opioids that are commonly abused, such as oxycodone, rather than
 all opioids. An addition factor that should be consider is the dollar amount of
 claims which may be a strong indicator of fraud. The dollar amount of claims
