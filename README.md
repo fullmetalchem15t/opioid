@@ -35,7 +35,7 @@ within their cluster (and borderline outliers) should be investigated for possib
 cases for fraud. This methodology was found to be more useful for specialties
 that have a narrow range of opioid claims rate such as family practice and internal
 medicine. For future consideration of anomaly detection, it may be beneficial to
-focus on the opioids that are commonly abused,such as oxycodone, rather than
+focus on the opioids that are commonly abused, such as oxycodone, rather than
 all opioids. An addition factor that should be consider is the dollar amount of
 claims which may be a strong indicator of fraud. The dollar amount of claims
 was considered by Gleb Esman (https://www.splunk.com/blog/2017/09/28/building-a-60-billion-data-model-to-stop-us-healthcare-fraud-with-splunk-and-machine-learning.html) who worked on a similar project and successfully
